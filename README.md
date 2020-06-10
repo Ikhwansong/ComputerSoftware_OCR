@@ -1,10 +1,13 @@
 # Class : Computer Software, OCR - the webtoon the world of dog, TA : Ikhwan Song
 
 ## Preparation
-- Download https://drive.google.com/open?id=1VfarXgLSFoXyMQcUUM3v2mLQovx3KQzP and extract at `./data`
+- Download the custom_area_GT.zip from https://drive.google.com/open?id=1VfarXgLSFoXyMQcUUM3v2mLQovx3KQzP and extract at `./data`
+- Download the checkpoints.zip and extract at ./
+- Download the checkpoints_find_area.zip and extract at ./
 - Install necessary dependencies:
 ```
 Just following presentation
+
 ```
 
 ## Testing
